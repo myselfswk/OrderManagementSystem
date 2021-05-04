@@ -1,0 +1,37 @@
+C:\Users\Administrator.ELAB207-LEC\Desktop\OrderManagementSystem\OrderManagementSystem\bin\Debug\OrderManagementSystem.exe.config
+C:\Users\Administrator.ELAB207-LEC\Desktop\OrderManagementSystem\OrderManagementSystem\bin\Debug\OrderManagementSystem.exe
+C:\Users\Administrator.ELAB207-LEC\Desktop\OrderManagementSystem\OrderManagementSystem\bin\Debug\OrderManagementSystem.pdb
+C:\Users\Administrator.ELAB207-LEC\Desktop\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Properties.Resources.resources
+C:\Users\Administrator.ELAB207-LEC\Desktop\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.csproj.GenerateResource.cache
+C:\Users\Administrator.ELAB207-LEC\Desktop\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.ELAB207-LEC\Desktop\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.exe
+C:\Users\Administrator.ELAB207-LEC\Desktop\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.pdb
+C:\Users\Administrator.ELAB207-LEC\Desktop\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Form1.resources
+C:\Users\Israr Ali\Desktop\OrderManagementSystem\OrderManagementSystem\bin\Debug\OrderManagementSystem.exe.config
+C:\Users\Israr Ali\Desktop\OrderManagementSystem\OrderManagementSystem\bin\Debug\OrderManagementSystem.exe
+C:\Users\Israr Ali\Desktop\OrderManagementSystem\OrderManagementSystem\bin\Debug\OrderManagementSystem.pdb
+C:\Users\Israr Ali\Desktop\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.csprojAssemblyReference.cache
+C:\Users\Israr Ali\Desktop\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Form1.resources
+C:\Users\Israr Ali\Desktop\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.MainForm.resources
+C:\Users\Israr Ali\Desktop\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Properties.Resources.resources
+C:\Users\Israr Ali\Desktop\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.csproj.GenerateResource.cache
+C:\Users\Israr Ali\Desktop\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.exe
+C:\Users\Israr Ali\Desktop\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.pdb
+C:\Users\Israr Ali\Desktop\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Tools.StopWatch.resources
+C:\Users\Administrator.ELAB207-LEC\Desktop\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.MainForm.resources
+C:\Users\Administrator.ELAB207-LEC\Desktop\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Tools.StopWatch.resources
+C:\Users\Administrator.ELAB207-LEC\Desktop\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.MyTextEditor.resources
+F:\VPL Assignments\OrderManagementSystem\OrderManagementSystem\bin\Debug\OrderManagementSystem.exe.config
+F:\VPL Assignments\OrderManagementSystem\OrderManagementSystem\bin\Debug\OrderManagementSystem.exe
+F:\VPL Assignments\OrderManagementSystem\OrderManagementSystem\bin\Debug\OrderManagementSystem.pdb
+F:\VPL Assignments\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.csprojAssemblyReference.cache
+F:\VPL Assignments\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Form1.resources
+F:\VPL Assignments\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.MainForm.resources
+F:\VPL Assignments\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.MyTextEditor.resources
+F:\VPL Assignments\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Properties.Resources.resources
+F:\VPL Assignments\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Tools.StopWatch.resources
+F:\VPL Assignments\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.Users.DateAndID.resources
+F:\VPL Assignments\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.csproj.GenerateResource.cache
+F:\VPL Assignments\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.csproj.CoreCompileInputs.cache
+F:\VPL Assignments\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.exe
+F:\VPL Assignments\OrderManagementSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.pdb
